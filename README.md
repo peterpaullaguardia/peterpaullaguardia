@@ -4,18 +4,23 @@
 
 I manage AI agents and build the systems that keep teams on time, so founders stop chasing tasks. My background is 10+ years in reliability engineering and remote operations: find the root cause, fix it, then write the SOP so it stays fixed.
 
-[Portfolio](https://peterpaullaguardia.vercel.app/) · [Upwork](https://www.upwork.com/freelancers/peterpaull2?p=2108050764516483072) · Imus, Cavite, Philippines (UTC+8)
+**Open to one-time projects and part-time work.**
+
+[Portfolio](https://peterpaullaguardia.vercel.app/) · [Upwork](https://www.upwork.com/freelancers/peterpaull2) · [LinkedIn](https://www.linkedin.com/in/peterpaull) · Imus, Cavite, Philippines (UTC+8)
+
+[![The Phantom Core AI office](https://peterpaullaguardia.vercel.app/phantom-office.gif)](https://github.com/peterpaullaguardia/phantom-core)
 
 ## Selected projects
 
 | Project | What it does | Result |
 |---|---|---|
-| **Phantom Core** | Five AI agents working as one team in Slack, with a chief-of-staff agent routing requests and a live office view | Nothing is sent, paid or moved without human approval |
+| **[Phantom Core](https://github.com/peterpaullaguardia/phantom-core)** | Five AI agents working as one team in Slack, with a chief-of-staff agent routing requests and a live office view | Nothing is sent, paid or moved without human approval |
+| **[TRACH](https://github.com/peterpaullaguardia/trach)** (in development) | AI work assistant that simplifies SOPs, quizzes the user and tracks hours per task | Used with my own VA team |
 | **AI lead generation** | Google Docs to Apollo with Claude: checks target companies against existing lists and picks contacts | 561 companies covered with no duplicates |
 | **Task-to-CMS publishing** | Vercel task board to Webflow CMS with Claude | No manual copy and paste, accurate time logs |
 | **Payroll monitoring** | Google Sheets, Airtable and Smold.app pipeline that checks payouts against logged work | ~30% leaking revenue recovered, payday cut from days to hours |
 | **Attribution pipeline** | GA4, UTM, Bitly and Framer tracking across Telegram, web and WhatsApp | Unattributed leads near zero within one week |
-| **TRACH** (in development) | AI work assistant that simplifies SOPs, quizzes the user and tracks hours per task | Used with my own VA team |
+| **[Decide Now](https://github.com/peterpaullaguardia/decide-now)** (in testing) | Turns one question into two options and maps where each leads | Plain-language decision maps |
 
 **Web and video:** [Rakdwei Services](https://rakdweiservices.framer.website/) (Framer site and brand identity) · 3D AI animated shorts · [more on my portfolio](https://peterpaullaguardia.vercel.app/)
 
