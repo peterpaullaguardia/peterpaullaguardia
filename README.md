@@ -8,7 +8,7 @@ I manage AI agents and build the systems that keep teams on time, so founders st
 
 [Portfolio](https://peterpaullaguardia.vercel.app/) · [Upwork](https://www.upwork.com/freelancers/peterpaull2) · [LinkedIn](https://www.linkedin.com/in/peterpaull) · Imus, Cavite, Philippines (UTC+8)
 
-[![The Phantom Core AI office](https://peterpaullaguardia.vercel.app/phantom-office.gif)](https://github.com/peterpaullaguardia/phantom-core)
+[![The Phantom Core AI office](https://peterpaullaguardia.vercel.app/phantom-core-preview.webp)](https://github.com/peterpaullaguardia/phantom-core)
 
 ## Selected projects
 
