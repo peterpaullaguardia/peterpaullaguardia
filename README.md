@@ -15,6 +15,7 @@ I manage AI agents and build the systems that keep teams on time, so founders st
 | Project | What it does | Result |
 |---|---|---|
 | **[Phantom Core](https://github.com/peterpaullaguardia/phantom-core)** | Five AI agents working as one team in Slack, with a chief-of-staff agent routing requests and a live office view | Nothing is sent, paid or moved without human approval |
+| **[Jarvis](https://peterpaullaguardia.vercel.app/#project-9)** | Voice-first AI chief of staff app on Vercel: say his name and he answers hands-free, reads back saved checks, and logs spoken requests as tasks for Claude | Nothing is sent, paid or deleted without my approval |
 | **[TRACH](https://github.com/peterpaullaguardia/trach)** (in development) | AI work assistant that simplifies SOPs, quizzes the user and tracks hours per task | Used with my own VA team |
 | **AI lead generation** | Google Docs to Apollo with Claude: checks target companies against existing lists and picks contacts | 561 companies covered with no duplicates |
 | **Task-to-CMS publishing** | Vercel task board to Webflow CMS with Claude | No manual copy and paste, accurate time logs |
