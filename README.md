@@ -27,10 +27,9 @@ I manage AI agents and build the systems that keep teams on time, so founders st
 
 ## Experience
 
-- **AI Agent Manager, EA & Project Manager**, US-based executive support firm (Oct 2026–present)
+- **AI Agent Manager, EA & Project Manager**, freelance clients and, since Oct 2026, a US-based executive support firm (Jan 2026–present). Build and manage AI agents; automated Apollo lead lists and Instantly outreach, and Vercel task board to Webflow CMS publishing
 - **Virtual Assistant**, Encore, UK web agency (Jan 2026–present)
-- **Lead Generation & AI Video**, Canadian animation studio (Apr 2025–present)
-- **Operations Manager**, remote agencies and a Dubai consultancy (Apr 2025–Oct 2026)
+- **Operations Manager, Lead Generation, Outreach & AI Video**, Canadian animation studio, remote agencies and a Dubai consultancy (Apr 2025–present)
 - **VA & Social Media Manager**, Australian content business (Oct 2024–Apr 2025)
 - **Senior Reliability Engineer**, Infineon Technologies (Jan–Oct 2024)
 - **Operations Manager (VA)**, House of Dolls Agency (Feb 2022–Jan 2024)
