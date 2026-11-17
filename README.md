@@ -27,7 +27,7 @@ I manage AI agents and build the systems that keep teams on time, so founders st
 
 ## Experience
 
-- **AI Agent Manager, EA & Project Manager**, freelance clients and, since Oct 2026, a US-based executive support firm (Jan 2026–present). Build and manage AI agents; automated Apollo lead lists and Instantly outreach, and Vercel task board to Webflow CMS publishing
+- **AI Agent Manager, EA & Project Manager**, freelance, US and UK clients (Jan 2026–present). Build and manage AI agents; automated Apollo lead lists and Instantly outreach, and Vercel task board to Webflow CMS publishing. Run operations in CollabNet (tasks assigned to VAs, CRM to Slack, timesheets, payroll checks, SOPs, HR, finance) with a Slack AI agent that creates tasks from a message; organize, label and clean up Asana boards
 - **Virtual Assistant**, Encore, UK web agency (Jan 2026–present)
 - **Operations Manager, Lead Generation, Outreach & AI Video**, Canadian animation studio, remote agencies and a Dubai consultancy (Apr 2025–present)
 - **VA & Social Media Manager**, Australian content business (Oct 2024–Apr 2025)
@@ -40,7 +40,7 @@ I manage AI agents and build the systems that keep teams on time, so founders st
 ## Tools
 
 - **AI:** Claude · ChatGPT · Sora · Runway · Kling AI · Higgsfield
-- **Ops:** Notion · Airtable · Apps Script · Google Workspace · Slack · Excel · NetSuite
+- **Ops:** CollabNet · Asana · Notion · Airtable · Apps Script · Google Workspace · Slack · Excel · NetSuite
 - **Growth:** Apollo · Instantly · Respond.io · GA4 · Bitly
 - **Web:** Framer · Webflow · Vercel
 - **Engineering:** Minitab · JMP · FMEA · 8D · Reliability Statistics
